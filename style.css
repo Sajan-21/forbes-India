@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal; */
+}
+.news-btn-custom{
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+    border-radius: 0px;
+}
+.carousel-news-text-custom{
+    font-size: 28px;
+}
+.news-short-text-heading, .by{
+    font-family: "Roboto", sans-serif;
+    font-size: 10px;
+    font-weight: 100;
+}
+.news-short-text-theme{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+.border-custom{
+    border-bottom: 10px solid rgb(230, 230, 230);
+}
+.border-custom-updown{
+    border-top: 10px solid rgb(230, 230, 230);
+    border-bottom: 10px solid rgb(230, 230, 230);
+}
+.four-col-custom{
+    border-bottom: 1px dashed black;
+}
+.dc-background-custom{
+    background-image: url(./images/NBN-logo6.jpg);
+    background-size: cover;
+}
+.all-link-custom{
+    background-color: white;
+    border-radius: 25px;
+}
+.fbs-listnspcl-div{
+    display: flex;
+}
+.fbs-listnspcl{
+    background-color: rgb(230, 230, 230);
+}
